@@ -38,6 +38,8 @@ group :development, :test do
   gem 'faker'
   gem 'launchy'
   gem 'rexml'
+  gem 'pry-rails'
+
 end
 
 group :development do
